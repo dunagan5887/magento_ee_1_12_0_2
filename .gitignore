@@ -1,0 +1,5 @@
+.idea
+app/etc/local.xml*
+var/cache/
+var/locks/
+var/session/
